@@ -3,6 +3,7 @@
 image_arrays_final.npy
 successful_indices_final.npy
 combined_results.csv
+gru
 
 # Python cache
 __pycache__/
