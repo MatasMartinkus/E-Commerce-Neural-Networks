@@ -3,7 +3,7 @@
 This project classifies product images into various subcategories using Convolutional Neural Networks (CNN) and a ResNet-50 model. It includes:
 
 1. **Data Preparation**  
-   - Loads saved NumPy arrays (`image_arrays_final.npy` and successful_indices_final.npy).  
+   - Loads saved NumPy arrays (`image_arrays_final.npy` and successful_indices_final.npy).  Note: Models and images/ numpy image arrays are not included.
    - Splits data into train/test sets, encodes labels, and prepares images.
 
 2. **Models**  
