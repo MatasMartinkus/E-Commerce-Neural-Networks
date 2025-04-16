@@ -22,7 +22,7 @@ This project classifies product images into various subcategories using Convolut
 5. **Usage**  
    - Clone the repo:  
      ```bash
-     git clone https://github.com/YourUsername/E-Commerce-Neural-Networks.git
+     git clone https://github.com/MatasMartinkus/E-Commerce-Neural-Networks.git
      cd E-Commerce-Neural-Networks
      ```  
    - Install Python dependencies:  
