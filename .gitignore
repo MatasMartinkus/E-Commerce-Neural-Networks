@@ -1,0 +1,18 @@
+# Large data files
+*.npy
+image_arrays_final.npy
+successful_indices_final.npy
+combined_results.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
