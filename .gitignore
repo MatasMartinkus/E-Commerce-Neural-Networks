@@ -1,9 +1,19 @@
 # Large data files
 *.npy
-image_arrays_final.npy
-successful_indices_final.npy
 combined_results.csv
-gru
+*.csv
+*.h5
+*.hdf5
+*.hdf
+
+# Model files
+*.h5
+*.pb
+*.ckpt*
+*.model
+saved_models/
+checkpoints/
+weights/
 
 # Python cache
 __pycache__/

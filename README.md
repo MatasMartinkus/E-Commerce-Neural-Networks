@@ -57,7 +57,7 @@ This project classifies product images into various subcategories using Convolut
    The project generates detailed visualizations in the cnn and resnet folders:
    
    - **Accuracy Curves**: Shows how both models improve over epochs, with ResNet50 reaching higher accuracy faster
-     - View in ![CNN Accuracy](cnn/accuracy.png) and ![ResNet Loss](resnet/loss.png)
+     - View in ![CNN Accuracy](cnn/accuracy.png) and ![ResNet Accuracy](resnet/accuracy.png)
    
    - **Loss Curves**: Demonstrates convergence patterns and potential overfitting
      - View in ![CNN Loss](cnn/loss.png) and ![ResNet Loss](resnet/loss.png)
